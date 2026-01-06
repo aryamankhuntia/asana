@@ -38,7 +38,7 @@ This will generate `output/asana_simulation.sqlite`.
 
 ---
 
-## Notes on LLM Usage
+## LLM Usage
 
 Prompt templates are stored under `prompts/`.
 These prompts were used offline to generate reusable text pools committed under `text_pools/`, which are sampled during data generation.
@@ -46,8 +46,3 @@ These prompts were used offline to generate reusable text pools committed under 
 This approach preserves prompt-driven realism while keeping the pipeline fully runnable without external APIs or large local models.
 
 ---
-
-## Limitations
-
-* Attachments and advanced automation rules are simplified.
-* Dataset scale is configurable and may be reduced for faster local execution.
