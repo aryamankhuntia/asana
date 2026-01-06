@@ -1,0 +1,37 @@
+Fix auth refresh race condition
+Webhook retry logging
+Billing cron → worker
+Investigate 500s spike
+Clean up old feature flags
+Cache invalidation edge case
+SSO redirect bug
+Rate limit enforcement
+Refactor permissions check
+Async job retry logic
+API timeout handling
+Background worker memory leak
+Update SDK error messages
+Remove deprecated endpoint
+Improve query performance on reports
+Session expiry edge case
+Audit log pagination bug
+Retry logic for failed exports
+Align API response schema
+Fix duplicate task creation
+Improve health check endpoint
+Add metrics for queue depth
+Stabilize search indexing
+Cleanup unused env vars
+Handle null owner case
+Backfill missing usage data
+Fix mobile sync inconsistency
+Throttle webhook deliveries
+Reduce N+1 queries
+Upgrade Redis client
+Failover handling for workers
+Fix flaky integration test
+Permission mismatch for guests
+Improve deploy rollback script
+Normalize status transitions
+Investigate high CPU usage
+Cleanup legacy auth paths

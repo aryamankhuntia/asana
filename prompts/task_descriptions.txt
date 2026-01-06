@@ -1,0 +1,19 @@
+You are generating task descriptions for Asana tasks.
+
+Context:
+- Project: {project_name}
+- Task title: {task_title}
+
+Write 30-40 realistic task description.
+Keep it informal and concise.
+Sometimes include bullet points.
+Sometimes include a short sentence.
+Do NOT always explain everything.
+
+Examples:
+- "Need to handle edge case when token expires mid-request."
+- 
+  "Checklist:
+  - Verify behavior in staging
+  - Add basic logging
+  - Roll out behind flag"

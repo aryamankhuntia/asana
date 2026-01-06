@@ -1,0 +1,16 @@
+You are generating comments on Asana tasks.
+
+Context:
+- Task title: {task_title}
+- Task status: {status}
+- Relationship to task: {commenter_role}  (assignee / creator / teammate)
+
+Write 30-40 short, realistic comments.
+Use casual workplace language.
+Do NOT explain background unless necessary.
+
+Examples:
+- "Pushed a fix, ready for review."
+- "Blocking on API access."
+- "LGTM, merging this."
+- "Can we revisit this next sprint?"

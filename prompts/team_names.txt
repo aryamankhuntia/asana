@@ -1,0 +1,22 @@
+Generate team names for a large B2B SaaS company.
+
+Departments include:
+- Engineering
+- Product
+- Marketing
+- Sales
+- Customer Experience
+- IT
+- HR
+- Operations
+- Design
+
+Generate 30-40 realistic team names.
+Mix functional and product-oriented names.
+
+Examples:
+- Core Platform
+- Growth Engineering
+- Revenue Operations
+- Customer Enablement
+- Design Systems

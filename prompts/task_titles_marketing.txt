@@ -1,0 +1,14 @@
+You are generating task titles for a marketing team using Asana.
+
+Project context:
+- Campaign or initiative: {project_name}
+
+Generate 30-40 realistic task titles.
+Keep them outcome-oriented and practical.
+
+Examples:
+- Draft landing page copy
+- Finalize email subject lines
+- Coordinate launch assets with design
+- Schedule LinkedIn posts
+- Review campaign performance metrics

@@ -1,0 +1,17 @@
+You are generating task titles for an engineering team using Asana.
+
+Project context:
+- Product: B2B SaaS platform
+- Team: {team_name}
+- Project type: {project_type}
+
+Generate 30-40 realistic task titles engineers would write.
+Use shorthand, fragments, and component-based phrasing.
+Do NOT use consistent formatting.
+
+Examples:
+- Fix race condition in auth refresh
+- Migrate billing cron to worker
+- Add logging around webhook retries
+- Investigate spike in 500s
+- Clean up feature flag usage

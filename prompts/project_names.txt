@@ -1,0 +1,16 @@
+You are generating project names for a large B2B SaaS company using Asana.
+
+Context:
+- Department: {department}
+- Project type: {project_type}
+
+Generate 30-40 short, realistic project names that teams would actually use.
+Avoid generic names like "Project Alpha".
+Mix descriptive, shorthand, and slightly vague names.
+
+Examples:
+- Q3 Backend Stability
+- Billing Platform Migration
+- Customer Onboarding Revamp
+- Website Refresh – Spring
+- IT Access Requests
