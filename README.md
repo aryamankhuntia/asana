@@ -46,3 +46,13 @@ These prompts were used offline to generate reusable text pools committed under 
 This approach preserves prompt-driven realism while keeping the pipeline fully runnable without external APIs or large local models.
 
 ---
+
+---
+
+## Entity Relationship Diagram
+
+The following diagram shows the database schema and relationships used in the Asana RL environment seed data:
+
+![Entity Relationship Diagram](./entity_relationship_diagram.png)
+
+---
